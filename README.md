@@ -2,6 +2,9 @@
 
 A React Native application built with TypeScript that fetches and displays character data from the Rick and Morty API.
 
+## Showcase
+[Showcase Video Link](https://drive.google.com/file/d/1LrxWgrV7ynbc4uVdIvBit4JwDCVhy1B-/view?usp=sharing)
+
 ## Features
 
 - **Character List Screen**: Paginated list with infinite scroll
